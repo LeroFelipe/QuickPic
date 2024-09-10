@@ -20,4 +20,4 @@ Se você pretende usar o projeto para fins comerciais, deve entrar em contato co
 - **Rescisão:** O não cumprimento de qualquer um dos termos desta licença pode resultar na rescisão dos direitos concedidos, e você deverá interromper imediatamente o uso e a distribuição do projeto.
 
 **6. Contato** 
-Para questões relacionadas a esta licença ou para obter autorização para uso comercial, entre em contato com Lérisson Felipe Pereira em lerisson@get.inatel.br.
+Para questões relacionadas a esta licença ou para obter autorização para uso comercial, entre em contato com **Lérisson Felipe Pereira** em lerisson@get.inatel.br.
