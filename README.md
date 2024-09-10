@@ -1,6 +1,6 @@
 # QuickPic
 
-##PROJETO LOCAL
+## PROJETO LOCAL
 
 /meu-projeto
 │
@@ -28,7 +28,7 @@
 
 
 
-##PROJETO AWS
+## PROJETO AWS
 
 /meu-projeto
 │
